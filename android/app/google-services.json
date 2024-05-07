@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "161329259816",
+    "firebase_url": "https://food-delivery-ac34f-default-rtdb.firebaseio.com",
+    "project_id": "food-delivery-ac34f",
+    "storage_bucket": "food-delivery-ac34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161329259816:android:afeb256f224b283f075c1d",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2stEP-_EeLnRFjqqEnmGVDGvBhAlXfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161329259816:android:b1e080982e17257b075c1d",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_resturant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2stEP-_EeLnRFjqqEnmGVDGvBhAlXfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161329259816:android:4126c4da8bb8b847075c1d",
+        "android_client_info": {
+          "package_name": "com.example.food_deliveryman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2stEP-_EeLnRFjqqEnmGVDGvBhAlXfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
